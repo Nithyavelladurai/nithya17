@@ -16,9 +16,32 @@ public static void main(String[] args) {
 	System.out.println(y);
 	char gender='f';
 	System.out.println(gender);
+//<<<<<<< HEAD
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	boolean n=true;
 	System.out.println(n);
 	System.out.println("email");
+//=======
+	
+	System.out.println("email");
+//>>>?>>>> 7d82390fe4e5b55389ea4da2984859ca3805f826
+	
 	
 	
 	
