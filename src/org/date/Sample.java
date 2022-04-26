@@ -18,8 +18,7 @@ public static void main(String[] args) {
 	System.out.println(gender);
 	boolean n=true;
 	System.out.println(n);
-	String email="nithyavelladurai17@gmail.com";
-	System.out.println(email);
+	System.out.println("email");
 	
 	
 	
